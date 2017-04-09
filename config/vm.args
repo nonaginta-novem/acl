@@ -1,0 +1,6 @@
+-sname acl
+
+-setcookie acl_cookie
+
++K true
++A 30

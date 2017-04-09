@@ -1,0 +1,16 @@
+{application, acl,
+ [{description, "ACL provider"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {mod, { acl_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
